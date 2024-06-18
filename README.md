@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @timiblow
-- 👀 I’m interested in Machine Learning and data
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on datasets for a medical record on dosage of radiation an MRI patient is exposed to
-- 📫 How to reach me gmail; mosestimilehin7@gmail.com, twitter: @AwofiranyeM
+- 👋 Hi, I’m @timiblow an ML engineer working on projects.
+- 👀 I’m interested in Machine Learning and data science projects and articles.
+- 🌱 I am open to suggestions on hackathons, projects, collaborations and possible data ideas. 
+- 📫 How to reach me gmail: mosestimilehin7@gmail.com; twitter: @timtobs10
 
 <!---
 timiblow/timiblow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
